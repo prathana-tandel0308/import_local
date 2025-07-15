@@ -22,9 +22,7 @@ This Streamlit app predicts and compares the **total cost** of sourcing componen
 🚀 [Click here to run the app for free](https://prathana-smart-procurement.streamlit.app)
 
 
-## 🛠️ Requirements
+git add requirements.txt
+git commit -m "Added requirements file"
+git push
 
-Install all dependencies using:
-
-```bash
-pip install -r requirements.txt
